@@ -1,0 +1,5 @@
+nasa_news = "https://mars.nasa.gov/news/"
+mars_images = "https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html"
+mars_facts = "https://space-facts.com/mars/"
+astro_url = "https://astrogeology.usgs.gov"
+mars_hemispheres = astro_url + "/search/results?q=hemisphere+enhanced&k1=target&v1=Mars"
