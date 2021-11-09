@@ -1,5 +1,7 @@
 # Web Scraping Challenge
 
+![mission_to_mars](Images/mission_to_mars.png)
+
 ## Summary
 This project contains a web application that scrapes website for information on the Mission to Mars. The applciation displays the information through a single page. Python Flask is used as the deployment method and MongoDB is used locally to store the information. 
 
@@ -8,3 +10,7 @@ This project contains a web application that scrapes website for information on 
 --[JPL Featured Space Image](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)<br>
 --[Mars Weather twitter account](https://twitter.com/marswxreport?lang=en)<br>
 --[Mars Facts webpage](https://space-facts.com/mars/)
+
+## Final Application 
+
+![final_app_part1.png](Images/final_app.png)
